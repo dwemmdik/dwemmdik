@@ -1,5 +1,4 @@
-## ini adalah web musik
-
+## ini web tapi bukan jaring laba laba
 <!--
 **dwemmdik/dwemmdik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
